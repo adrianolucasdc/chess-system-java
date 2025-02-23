@@ -1,11 +1,8 @@
 package application;
 
-import boardgame.Board;
 import chess.ChessMatch;
 
-import java.util.ArrayList;
-
-public class Main {
+public class Program {
 
     public static void main(String[] args) {
 
